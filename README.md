@@ -1,5 +1,5 @@
 # APIHomework
-Made by Joshua Jaggat
+Made by Joshua Jaggat  
 Not sure what was supposed to be in the README.MD
 
 # FINANCIAL PLANNER 
